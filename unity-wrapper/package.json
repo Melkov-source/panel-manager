@@ -5,22 +5,10 @@
   "description": "Global update for panel manager core.\nDocs: https://docs.google.com/document/d/1fMH0Z7nA2QIbtpGqlxivEC9J_MpT6ZDcW10yWmLreNM/edit?usp=sharing",
   "unity": "2021.3",
   "unityRelease": "0b5",
-  "documentationUrl": "http://docs.itibsoft.ru/books/modules/page/panel-manager",
   "author": {
     "name": "Itibsoft",
     "email": "itibsoft@gmail.com",
     "url": "itibsoft.ru"
   },
-  "samples": [
-    {
-      "displayName": "Demo",
-      "description": "Panel manager demo version",
-      "path": "Samples~/Demo"
-    },
-    {
-      "displayName": "Reflex DI",
-      "description": "Reflex demo implementation",
-      "path": "Samples~/Reflex"
-    }
-  ]
+  "samples": []
 }
